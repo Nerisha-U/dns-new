@@ -1,4 +1,3 @@
-#this is my comment
 pipeline {
     agent any
     stages {
